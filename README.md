@@ -1,6 +1,8 @@
 # miR2Trait
 An integrated resource for investigating miRNA - disease associations
 
+[![DOI](https://zenodo.org/badge/192518665.svg)](https://zenodo.org/badge/latestdoi/192518665)
+
 1) curated.csv --> Source data from DisGeNET for Gene <-> Disease mappings
 
 2) miR.csv --> Source data from miRTarBase for the miRNA <-> Gene mappings
