@@ -20,3 +20,5 @@ An integrated resource for investigating miRNA - disease associations
 9) miRNA-Disease.pkl: Pickle-d file of the miRNA-Disease mapping from miRDis.py
 
 10) Disease-miRNA.pkl: Pickle-d file of the Disease-miRNA mapping from Dis_miR.py
+
+Copyright (c) 2019, Poornima Babu and Ashok Palaniappan
