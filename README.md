@@ -14,7 +14,7 @@ The code and data comprising the **miR2Trait** resource are described in the [mi
 6. [miRNA List Enrichment Analysis](https://github.com/miR2Trait/miR2Trait/wiki/miRNA-List-Enrichment-Analysis)
 7. [Disease Set Abundance Analysis](https://github.com/miR2Trait/miR2Trait/wiki/Disease-Set-Abundance-Analysis)
 8. [Creation of miRNA-miRNA and disease-disease adjacency networks](https://github.com/miR2Trait/miR2Trait/wiki/Adjacency-Network-creation-for-miRNAs-and-Diseases)
-9. Network post-processing to yield consensus central nodes -- [Top Nodes from Adjacency Networks](https://github.com/miR2Trait/miR2Trait/wiki/Top-Nodes-from-Adjacency-Networks)
+9. [Top Nodes from Adjacency Networks](https://github.com/miR2Trait/miR2Trait/wiki/Top-Nodes-from-Adjacency-Networks) -- Network post-processing to yield consensus central nodes 
 10. [Querying miRNA information from miRBase](https://github.com/miR2Trait/miR2Trait/wiki/Querying-miRNA-information-from-miRBase)
 11. [Creating a toy MySQLdb](https://github.com/miR2Trait/miR2Trait/wiki/Creating-a-MySQLdb:-toy-example)
 
