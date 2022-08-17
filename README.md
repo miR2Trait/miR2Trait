@@ -10,4 +10,5 @@ Please be sure to cite us:
 Babu P and Palaniappan A. miR2Trait: An integrated resource for investigating miRNA-disease associations. 2019-2022
 
 Copyright (c), Poornima Babu and Ashok Palaniappan
+
 e-mail: apalania.at.scbt.sastra.edu
