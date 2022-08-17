@@ -1,8 +1,6 @@
 # miR2Trait
 An integrated resource for investigating miRNA - disease associations
 
-[![DOI](https://zenodo.org/badge/192518665.svg)](https://zenodo.org/badge/latestdoi/192518665)
-
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7002878.svg)](https://doi.org/10.5281/zenodo.7002878)
 
 The code and data comprising the **miR2Trait** resource are described in the [miR2Trait wiki](https://github.com/miR2Trait/miR2Trait/wiki).
