@@ -23,7 +23,7 @@ The code and data comprising the **miR2Trait** resource are described in the [mi
 2. [miR2Trait mappings](https://github.com/miR2Trait/miR2Trait/wiki/Data::pickled-mappings)
 3. [Spectrum widths](https://github.com/miR2Trait/miR2Trait/wiki/Data::Spectrum-widths)
 4. [Adjacency networks](https://github.com/miR2Trait/miR2Trait/wiki/Data::Adjacency-Networks)
-5. [Human miRNA catalogue from miRBase v22.1](https://github.com/miR2Trait/miR2Trait/wiki/Data::miRBase_human)
+5. [Human miRNA catalogue](https://github.com/miR2Trait/miR2Trait/wiki/Data::miRBase_human)
 
 **Please be sure to cite us**:
 
