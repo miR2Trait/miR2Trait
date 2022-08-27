@@ -3,7 +3,7 @@ An integrated resource for investigating miRNA - disease associations
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7002878.svg)](https://doi.org/10.5281/zenodo.7002878)
 
-The code and data comprising the **miR2Trait** resource are described in the [miR2Trait wiki](https://github.com/miR2Trait/miR2Trait/wiki).
+The code and data comprising the **miR2Trait** resource are described in the [miR2Trait wiki](https://github.com/miR2Trait/miR2Trait/wiki). All code is developed using Python 3.x
 
 ## Code wikis:
 1. [Creating Python dictionary data structures of processed DisGeNET data](https://github.com/miR2Trait/miR2Trait/wiki/Dictionaries-of-processed-DisGeNET-data)
@@ -25,10 +25,17 @@ The code and data comprising the **miR2Trait** resource are described in the [mi
 4. [Adjacency networks](https://github.com/miR2Trait/miR2Trait/wiki/Data::Adjacency-Networks)
 5. [Human miRNA catalogue](https://github.com/miR2Trait/miR2Trait/wiki/Data::miRBase_human)
 
+#Dependencies:
+Following Python 3.x libraries are required:
+pandas
+scipy
+pickle
+mysql (for creation of MySQL db)
+
 **Please be sure to cite us**:
 
 Babu P and Palaniappan A. *miR2Trait: An integrated resource for investigating miRNA-disease associations*. 2019-2022
 
-Copyright (c), Poornima Babu and Ashok Palaniappan. 
+E-mail: apalania.at.scbt.sastra.edu
 
-e-mail: apalania.at.scbt.sastra.edu
+
