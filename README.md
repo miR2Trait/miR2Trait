@@ -26,11 +26,12 @@ The code and data comprising the **miR2Trait** resource are described in the [mi
 5. [Human miRNA catalogue](https://github.com/miR2Trait/miR2Trait/wiki/Data::miRBase_human)
 
 #Dependencies:
+
 Following Python 3.x libraries are required:
-pandas
-scipy
-pickle
-mysql (for creation of MySQL db)
+- pandas
+- scipy
+- pickle
+- mysql (for creation of MySQL db)
 
 **Please be sure to cite us**:
 
