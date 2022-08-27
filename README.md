@@ -25,8 +25,7 @@ The code and data comprising the **miR2Trait** resource are described in the [mi
 4. [Adjacency networks](https://github.com/miR2Trait/miR2Trait/wiki/Data::Adjacency-Networks)
 5. [Human miRNA catalogue](https://github.com/miR2Trait/miR2Trait/wiki/Data::miRBase_human)
 
-#Dependencies:
-
+# Dependencies:
 Following Python 3.x libraries are required:
 - pandas
 - scipy
