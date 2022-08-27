@@ -32,7 +32,7 @@ Following Python 3.x libraries are required:
 - pickle
 - mysql (for creation of MySQL db)
 
-**Please be sure to cite us**:
+**For more details, reproducible examples, and citation purposes, please see**: 
 
 Babu P and Palaniappan A. *miR2Trait: An integrated resource for investigating miRNA-disease associations*. 2019-2022
 
