@@ -36,6 +36,6 @@ Following Python 3.x libraries are required:
 
 Babu P and Palaniappan A. *miR2Trait: An integrated resource for investigating miRNA-disease associations*. 2019-2022
 
-E-mail: apalania.at.scbt.sastra.edu
+E-mail: apalaniaATscbt.sastra.edu
 
 
