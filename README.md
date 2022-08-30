@@ -37,14 +37,3 @@ Following Python 3.x libraries are required:
 Babu P and Palaniappan A. *miR2Trait: An integrated resource for investigating miRNA-disease associations*. 2019-2022
 
 E-mail: apalaniaATscbt.sastra.edu
-
-upload disease_adjacency onto web-server; typos in index.html etc
-
-============
-The following use-cases will aid the construction of appropriate queries:
-(i) To match at the beginning, the ‘^’ symbol may be used. For e.g, '^essential.*'  matches diseases beginning with “essential”.
-(ii) To match at the end, the ‘$’ symbol may be used. For e.g, “.*tension$” matches diseases with “tension” at the end.
-(iii) To match multiple options, the ‘|’ symbol may be used. For e.g, '(cancer)|(neoplasm)' fetches all 'cancer' and all 'neoplasm' database entries.
-(iv) To match anywhere, with zero or more occurrences of search term, the ‘*’ wildcard may be used. For e.g., '.*tension' retrieves diseases containing “tension” anywhere in their names; here ‘.’ serves to signify any character. The query 'hsa-miR-454*,' when searching by miRNA would match entries that contain “hsa-miR-45” anywhere.
-(v) The special character '+' mandates the occurrence of the preceding character (at least once). 'Neo+' would match diseases containing a prefix word 'Neo' (for e.g, any ‘neoplasm’). As another example, when searching by miRNA, 'hsa-miR-454+' would match the following: hsa-miR-4540, hsa-miR-454-3p, hsa-miR-454-5p.
-(vi) A template for constructing queries that retrieve all subtypes of a specific miRNA would be: ‘miR-([0-9][0-9] *) [ab]?-[1-9]-’ where the parenthesis specifies the miRNA of interest. To retrieve only the 5p variants, we could modify the query thus: ‘miR-([0-9][0-9] *) [ab]?-[1-9]-5p’.
