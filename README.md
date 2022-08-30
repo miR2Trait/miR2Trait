@@ -30,7 +30,7 @@ Following Python 3.x libraries are required:
 - pandas
 - scipy
 - pickle
-- mysql-connector-python (for creation of MySQL db; imported as mysql.connector)
+- mysql-connector-python (optional: for creation of MySQL db)
 
 **For more details, reproducible examples, and citation purposes, please see**: 
 
