@@ -34,6 +34,6 @@ Following Python 3.x libraries are required:
 
 **For more details, reproducible examples, and citation, please see**: 
 
-Babu P and Palaniappan A. *miR2Trait: An integrated resource for investigating miRNA-disease associations*. PeerJ (accepted), 2022. 
+Babu P, Palaniappan A. 2022. miR2Trait: an integrated resource for investigating miRNA-disease associations. PeerJ 10:e14146 https://doi.org/10.7717/peerj.14146
 
-E-mail: apalaniaATscbt.sastra.edu
+E-mail: apalania.at.scbt.sastra.edu
